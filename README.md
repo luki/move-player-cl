@@ -1,7 +1,7 @@
-# Player Move in Terminal
+# Move Player
 
 ## Summary
-A project in order to practice making terminal games using Haskell.
+A project in order to practice making command line games using Haskell.
 
 ## Notice
 This project is nearly identical to Justin's code (see _Resources_). I've
